@@ -1,10 +1,10 @@
-### Table of Contents
+# Table of Contents
 
-- [What is Tutors](#what-is-tutors?)
+- [What is Tutors](#what-is-tutors)
 - [Getting Started](#getting-started)
 - [Reporting Bugs](#reporting-bugs)
 
-### What is Tutors?
+## What is Tutors
 
 Tutors is a collection of open source components and services supporting the creation of transformative learning experiences using open web standards. It consists of two key components:
 
@@ -18,7 +18,7 @@ This repo is the Tutors Reader. A companion repo:
 
 ...host the generators + support tools. These components are developed in the open by an active and friendly community, based on a [simple set of values](https://tutors.dev/course/tutors-reference-manual#tutors-values).
 
-# Getting Started
+## Getting Started
 
 The first step might be to becomee familiar browsing a course, and then creating a course.
 
