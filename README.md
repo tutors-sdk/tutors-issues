@@ -1,2 +1,5 @@
-# tutors-issues
-A placeholder for issues retired from tutors
+# Table of Contents
+
+- [How to Contribute](#how-to-contribute)
+
+## How to Contribute
